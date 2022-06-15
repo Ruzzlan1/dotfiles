@@ -1,0 +1,75 @@
+[2022-06-10 13:34:34.125] [exthost] [info] Extension host with pid 24133 started
+[2022-06-10 13:34:34.125] [exthost] [info] Skipping acquiring lock for /home/ruslan/.config/VSCodium/User/workspaceStorage/4b8c2351db9088bb6196e163c6942a9e.
+[2022-06-10 13:34:34.251] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-10 13:34:34.255] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-06-10 13:34:34.259] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-10 13:34:34.263] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-06-10 13:34:34.378] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-10 13:34:34.415] [exthost] [info] Eager extensions activated
+[2022-06-10 13:34:34.437] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 13:34:34.446] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 13:34:34.450] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 13:34:34.516] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 13:34:34.567] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 13:34:34.979] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-06-10 13:34:35.062] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-06-10 13:34:35.152] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 13:34:35.157] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: false, activationEvent: '*'
+[2022-06-10 13:34:35.167] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 13:34:41.358] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-10 13:34:41.360] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-10 13:34:41.374] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-10 13:34:50.748] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-06-10 13:34:57.797] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 13:35:00.296] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 13:35:35.263] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 13:35:35.350] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-06-10 13:35:43.017] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 13:36:06.441] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 13:38:39.807] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 13:38:41.788] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 13:39:17.751] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 13:39:22.430] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 13:41:24.269] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 13:42:14.004] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 13:42:45.825] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 13:42:50.880] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material, startup: false, activationEvent: '*'
+[2022-06-10 13:43:28.147] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 13:44:47.444] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-10 13:44:47.507] [exthost] [info] Extension host with pid 24133 exiting with code 0
+[2022-06-10 13:44:51.116] [exthost] [info] Extension host with pid 26729 started
+[2022-06-10 13:44:51.116] [exthost] [info] Skipping acquiring lock for /home/ruslan/.config/VSCodium/User/workspaceStorage/4b8c2351db9088bb6196e163c6942a9e.
+[2022-06-10 13:44:51.274] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-10 13:44:51.279] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-10 13:44:51.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-10 13:44:51.310] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-10 13:44:51.313] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-10 13:44:51.316] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-10 13:44:51.321] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material, startup: true, activationEvent: '*'
+[2022-06-10 13:44:51.340] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-06-10 13:44:51.389] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-10 13:44:51.424] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-10 13:44:51.647] [exthost] [info] Eager extensions activated
+[2022-06-10 13:44:51.699] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 13:44:51.714] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 13:44:51.739] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 13:44:51.778] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 13:44:51.867] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 13:44:52.376] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-06-10 13:44:59.977] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 13:59:56.923] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 13:59:57.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-06-10 14:00:03.797] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 14:00:35.471] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 14:00:51.647] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 14:01:09.349] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 14:02:02.986] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 14:02:45.514] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 14:02:48.674] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 14:02:52.765] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 14:03:22.574] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 14:03:43.400] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 14:04:18.115] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 14:04:58.571] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: '*'
+[2022-06-10 14:11:48.151] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-10 14:11:48.261] [exthost] [info] Extension host with pid 26729 exiting with code 0

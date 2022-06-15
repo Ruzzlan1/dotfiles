@@ -1,0 +1,6 @@
+2022/06/13-22:18:58.134 2eaf7 Creating DB /home/ruslan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_alinino.az_0.indexeddb.leveldb since it was missing.
+2022/06/13-22:18:58.223 2eaf7 Reusing MANIFEST /home/ruslan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_alinino.az_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/13-22:20:46.176 2eb00 Level-0 table #5: started
+2022/06/13-22:20:46.231 2eb00 Level-0 table #5: 167140 bytes OK
+2022/06/13-22:20:46.275 2eb00 Delete type=0 #3
+2022/06/13-22:20:46.275 2eb00 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

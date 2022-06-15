@@ -1,0 +1,81 @@
+format = """
+$time\
+$hostname\
+$directory\
+$git_branch\
+$git_commit\
+$git_status\
+$git_state\
+$package\
+$deno\
+$nodejs\
+$golang\
+$rust\
+$python\
+$shlvl\
+$cmd_duration\
+$status\
+$line_break\
+$character"""
+
+[time]
+disabled = false
+format = "\\[ [$time](yellow) \\] "
+time_format = "%T"
+
+[hostname]
+format = "\\[ [$hostname](green) \\] "
+ssh_only = false
+trim_at = "_"
+
+[directory]
+format = "[$read_only]($read_only_style)[$path]($style) "
+read_only = "🔒 "
+style = "cyan"
+truncation_length = 0
+
+[git_branch]
+style = "purple"
+symbol = ""
+
+[python]
+format = "[${symbol}${pyenv_prefix}${version}( \\($virtualenv\\))]($style) "
+
+[golang]
+format = "$symbol[$version]($style) "
+version_format = "$raw"
+
+[deno]
+format = "$symbol[$version](green) "
+style = "green"
+version_format = "${raw}"
+
+[nodejs]
+detect_extensions = ["mjs", "cjs"]
+format = "$symbol [$version]($style) "
+style = "green"
+symbol = "node"
+version_format = "$raw"
+
+[shlvl]
+disabled = false
+style = "bright-blue"
+format = "\\[ [$shlvl]($style) \\] "
+
+[status]
+disabled = false
+format = "$symbol [$status $common_meaning](red) "
+map_symbol = true
+not_executable_symbol = "🔒"
+sigint_symbol = "🛑"
+signal_symbol = "📡"
+symbol = "💣"
+
+[cmd_duration]
+format = "⏱️ [$duration](bold yellow) "
+min_time = 5_000
+show_notifications = true
+
+[character]
+error_symbol = "[λ](red)"
+success_symbol = "[λ](white)"

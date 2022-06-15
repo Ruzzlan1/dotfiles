@@ -1,0 +1,76 @@
+[Info  - 3:21:16 PM] ESLint server is starting
+[Info  - 3:21:17 PM] ESLint server running in node v16.13.0
+[Info  - 3:21:17 PM] ESLint server is running.
+[Info  - 3:21:17 PM] 
+Failed to load the ESLint library for the document /home/ruslan/Desktop/webDevLearn/shorty-new/src/components/Link.jsx
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder shorty-new
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder shorty-new by executing the 'Disable ESLint' command.
+[Info  - 3:22:42 PM] 
+Failed to load the ESLint library for the document /home/ruslan/Desktop/webDevLearn/shorty-new/src/components/Link.jsx
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder shorty-new
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder shorty-new by executing the 'Disable ESLint' command.
+[Info  - 3:27:17 PM] 
+Failed to load the ESLint library for the document /home/ruslan/Desktop/webDevLearn/shorty-new/src/components/Link.jsx
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder shorty-new
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder shorty-new by executing the 'Disable ESLint' command.
+[Info  - 3:27:40 PM] 
+Failed to load the ESLint library for the document /home/ruslan/Desktop/webDevLearn/shorty-new/src/components/Link.jsx
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder shorty-new
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder shorty-new by executing the 'Disable ESLint' command.
+[Info  - 3:28:11 PM] 
+Failed to load the ESLint library for the document /home/ruslan/Desktop/webDevLearn/shorty-new/src/components/Form.jsx
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder shorty-new
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder shorty-new by executing the 'Disable ESLint' command.
+[Info  - 3:33:43 PM] 
+Failed to load the ESLint library for the document /home/ruslan/Desktop/webDevLearn/shorty-new/src/components/Form.jsx
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder shorty-new
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder shorty-new by executing the 'Disable ESLint' command.
+[Info  - 3:33:43 PM] 
+Failed to load the ESLint library for the document /home/ruslan/Desktop/webDevLearn/shorty-new/src/components/Link.jsx
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder shorty-new
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder shorty-new by executing the 'Disable ESLint' command.
+[Info  - 3:33:56 PM] 
+Failed to load the ESLint library for the document /home/ruslan/Desktop/webDevLearn/shorty-new/src/components/Link.jsx
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder shorty-new
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder shorty-new by executing the 'Disable ESLint' command.
+[Info  - 3:33:56 PM] 
+Failed to load the ESLint library for the document /home/ruslan/Desktop/webDevLearn/shorty-new/src/components/Form.jsx
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder shorty-new
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder shorty-new by executing the 'Disable ESLint' command.
+[Info  - 5:35:31 PM] ESLint server stopped.
